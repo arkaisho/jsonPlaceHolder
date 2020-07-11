@@ -17,7 +17,26 @@
             "number": "123",
             "lat": -6.212183,
             "long": -38.497472,
-            "products": []
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Product one name",
+                    "price": 100.0,
+                    "created_date": null
+                },
+                {
+                    "id": 2,
+                    "name": "Product two name",
+                    "price": 1000.0,
+                    "created_date": null
+                },
+                {
+                    "id": 3,
+                    "name": "Product three name",
+                    "price": 1000.0,
+                    "created_date": null
+                }
+            ]
         },
         {
             "id": 2,
@@ -36,7 +55,25 @@
             "number": "123",
             "lat": -6.212686,
             "long": -38.499141,
-            "products": []
+            "products": [
+                {
+                    "id": 21,
+                    "name": "Product one name",
+                    "price": 100.0,
+                    "created_date": null
+                },
+                {
+                    "id": 22,
+                    "name": "Product two name",
+                    "price": 200.0,
+                    "created_date": null
+                },
+                {
+                    "id": 23,
+                    "name": "Product three name",
+                    "price": 100.0,
+                    "created_date": null
+                }]
         },
         {
             "id": 3,
@@ -55,7 +92,25 @@
             "number": "123",
             "lat": -6.210801,
             "long": -38.499514,
-            "products": []
+            "products": [
+                {
+                    "id": 31,
+                    "name": "Product one name",
+                    "price": 1000.0,
+                    "created_date": null
+                },
+                {
+                    "id": 32,
+                    "name": "Product two name",
+                    "price": 200.0,
+                    "created_date": null
+                },
+                {
+                    "id": 33,
+                    "name": "Product three name",
+                    "price": 300.0,
+                    "created_date": null
+                }]
         },
         {
             "id": 4,
@@ -74,7 +129,25 @@
             "number": "123",
             "lat": -6.210620,
             "long": -38.496148,
-            "products": []
+            "products": [
+                {
+                    "id": 41,
+                    "name": "Product one name",
+                    "price": 500.0,
+                    "created_date": null
+                },
+                {
+                    "id": 42,
+                    "name": "Product two name",
+                    "price": 600.0,
+                    "created_date": null
+                },
+                {
+                    "id": 43,
+                    "name": "Product three name",
+                    "price": 1100.0,
+                    "created_date": null
+                }]
         }
     ]
 }
