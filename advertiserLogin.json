@@ -1,0 +1,38 @@
+ {
+            "id": 1,
+            "name": "first shop",
+            "username": "first",
+            "password": "password",
+            "email": "first@first.com",
+            "cpf": "123123",
+            "telephone": "(84)9999-9999",
+            "instagram": "@first-instagram",
+            "is_paid": true,
+            "city": "first-city",
+            "neighboor": null,
+            "state": "first",
+            "street": "first",
+            "number": "123",
+            "lat": -6.212183,
+            "long": -38.497472,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Product one name",
+                    "price": 100.0,
+                    "created_date": null
+                },
+                {
+                    "id": 2,
+                    "name": "Product two name",
+                    "price": 1000.0,
+                    "created_date": null
+                },
+                {
+                    "id": 3,
+                    "name": "Product three name",
+                    "price": 1000.0,
+                    "created_date": null
+                }
+            ]
+        }
