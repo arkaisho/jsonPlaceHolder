@@ -2,9 +2,9 @@
     "advertisers": [
         {
             "id": 1,
-            "name": "first shop",
+            "name": "Drone shop 1",
             "username": "first",
-            "email": "first@first.com",
+            "email": "mail@mail.com",
             "telephone": "(84)9999-9999",
             "instagram": "@first-instagram",
             "city": "first-city",
@@ -17,27 +17,27 @@
             "products": [
                 {
                     "id": 1,
-                    "name": "Product one name",
-                    "price": 100.0,
+                    "name": "Drone Multilaser Bird",
+                    "price": 424.91,
                     "created_date": null
                 },
                 {
                     "id": 2,
-                    "name": "Product two name",
-                    "price": 1000.0,
+                    "name": "Drone DJI Mavic Mini Fly More",
+                    "price": 5490.0,
                     "created_date": null
                 },
                 {
                     "id": 3,
-                    "name": "Product three name",
-                    "price": 1000.0,
+                    "name": "Drone Multilaser Eagle FPV",
+                    "price": 560.0,
                     "created_date": null
                 }
             ]
         },
         {
             "id": 2,
-            "name": "second shop",
+            "name": "Drone shop 2",
             "username": "second",
             "email": "second@second.com",
             "telephone": "(84)9999-9999",
@@ -52,26 +52,26 @@
             "products": [
                 {
                     "id": 21,
-                    "name": "Product one name",
-                    "price": 100.0,
+                    "name": "Drone Multilaser Bird",
+                    "price": 430.0,
                     "created_date": null
                 },
                 {
                     "id": 22,
-                    "name": "Product two name",
-                    "price": 200.0,
+                    "name": "Drone DJI Mavic Mini Fly More",
+                    "price": 5550.0,
                     "created_date": null
                 },
                 {
                     "id": 23,
-                    "name": "Product three name",
-                    "price": 100.0,
+                    "name": "Drone Multilaser Eagle FPV",
+                    "price": 590.0,
                     "created_date": null
                 }]
         },
         {
             "id": 3,
-            "name": "third shop",
+            "name": "Drone shop 3",
             "username": "third",
             "email": "third@third.com",
             "telephone": "(84)9999-9999",
@@ -86,26 +86,26 @@
             "products": [
                 {
                     "id": 31,
-                    "name": "Product one name",
-                    "price": 1000.0,
+                    "name": "Drone Multilaser Bird",
+                    "price": 399.99,
                     "created_date": null
                 },
                 {
                     "id": 32,
-                    "name": "Product two name",
-                    "price": 200.0,
+                    "name": "Drone DJI Mavic Mini Fly More",
+                    "price": 5200.0,
                     "created_date": null
                 },
                 {
                     "id": 33,
-                    "name": "Product three name",
-                    "price": 300.0,
+                    "name": "Drone Multilaser Eagle FPV",
+                    "price": 575.0,
                     "created_date": null
                 }]
         },
         {
             "id": 4,
-            "name": "fourth shop",
+            "name": "Drone shop 4",
             "username": "fourth",
             "email": "fourth@fourth.com",
             "telephone": "(84)9999-9999",
@@ -120,20 +120,20 @@
             "products": [
                 {
                     "id": 41,
-                    "name": "Product one name",
-                    "price": 500.0,
+                    "name": "Drone Multilaser Bird",
+                    "price": 500.00,
                     "created_date": null
                 },
                 {
                     "id": 42,
-                    "name": "Product two name",
-                    "price": 600.0,
+                    "name": "Drone DJI Mavic Mini Fly More",
+                    "price": 5400.0,
                     "created_date": null
                 },
                 {
                     "id": 43,
-                    "name": "Product three name",
-                    "price": 1100.0,
+                    "name": "Drone Multilaser Eagle FPV",
+                    "price": 499.99,
                     "created_date": null
                 }]
         }
