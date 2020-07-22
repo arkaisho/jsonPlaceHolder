@@ -19,18 +19,21 @@
                     "id": 1,
                     "name": "Drone Multilaser Bird",
                     "price": 424.91,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 2,
                     "name": "Drone DJI Mavic Mini Fly More",
                     "price": 5490.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 3,
                     "name": "Drone Multilaser Eagle FPV",
                     "price": 560.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 }
             ]
@@ -54,18 +57,21 @@
                     "id": 21,
                     "name": "Drone Multilaser Bird",
                     "price": 430.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 22,
                     "name": "Drone DJI Mavic Mini Fly More",
                     "price": 5550.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 23,
                     "name": "Drone Multilaser Eagle FPV",
                     "price": 590.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 }]
         },
@@ -88,18 +94,21 @@
                     "id": 31,
                     "name": "Drone Multilaser Bird",
                     "price": 399.99,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 32,
                     "name": "Drone DJI Mavic Mini Fly More",
                     "price": 5200.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 33,
                     "name": "Drone Multilaser Eagle FPV",
                     "price": 575.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 }]
         },
@@ -122,18 +131,21 @@
                     "id": 41,
                     "name": "Drone Multilaser Bird",
                     "price": 500.00,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 42,
                     "name": "Drone DJI Mavic Mini Fly More",
                     "price": 5400.0,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 },
                 {
                     "id": 43,
                     "name": "Drone Multilaser Eagle FPV",
                     "price": 499.99,
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
                     "created_date": null
                 }]
         }
