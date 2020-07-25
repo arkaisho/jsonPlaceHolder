@@ -1,40 +1,60 @@
- {
+{
+        "id": 1,
+        "telephone": "84996393352",
+        "whatsapp": "84996393352",
+        "instagram": "@alefemannuel",
+        "active": true,
+        "city": "Portalegre",
+        "neighborhood": "Centro",
+        "state": "RN",
+        "street": "Rua Antônio do Rêgo Leite",
+        "number": 20,
+        "lat": -6.0237761,
+        "lon": -37.9866815,
+        "image": null,
+        "products": [
+            {
+                "id": 1,
+                "name": "Suporte de vôo",
+                "description": "O melhor suporte de vôo para drone",
+                "price": 50.0,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            },
+            {
+                "id": 2,
+                "name": "Motor drone",
+                "description": "Motor AVGR para drone",
+                "price": 150.15,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            },
+            {
+                "id": 3,
+                "name": "Câmera Noturna Samsung",
+                "description": "A melhor câmera de drone do mundo",
+                "price": 500.99,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            }
+        ],
+        "user": {
             "id": 1,
-            "name": "First shop",
-            "createdTimetanp":"",
-            "username": "first",
-            "password": "password",
-            "email": "first@first.com",
-            "cpf": "123123.123-12",
-            "telephone": "",
-            "whatsapp": "(99)99999-9999",
-            "instagram": "@first-instagram",
-            "is_paid": true,
-            "city": "FirstCity",
-            "neighboor": "FirstNeighboor",
-            "state": "FI",
-            "street": "First street",
-            "number": "1",
-            "lat": -6.212183,
-            "long": -38.497472,
-            "products": [
-                {
-                    "id": 1,
-                    "name": "Product one name",
-                    "price": 100.0,
-                    "created_date": null
-                },
-                {
-                    "id": 2,
-                    "name": "Product two name",
-                    "price": 1000.0,
-                    "created_date": null
-                },
-                {
-                    "id": 3,
-                    "name": "Product three name",
-                    "price": 1000.0,
-                    "created_date": null
-                }
-            ]
-        }
+            "name": "Alef Emannuel",
+            "cpf": "111.111.111-11",
+            "username": "alefemannuel",
+            "password": "alefemannuel",
+            "email": "alef@gmail.com",
+            "createdTimestamp": "2020-06-23T20:41:57.95",
+            "updatedTimestamp": null,
+            "active": true
+        },
+        "createdTimestamp": "2020-06-23T20:41:57.95",
+        "updatedTimestamp": null
+    }
