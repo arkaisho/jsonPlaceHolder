@@ -1,153 +1,133 @@
 {
     "advertisers": [
-        {
+    {
+        "id": 1,
+        "telephone": "84996393352",
+        "whatsapp": "84996393352",
+        "instagram": "@alefemannuel",
+        "active": true,
+        "city": "Portalegre",
+        "neighborhood": "Centro",
+        "state": "RN",
+        "street": "Rua Antônio do Rêgo Leite",
+        "number": 20,
+        "lat": -6.0237761,
+        "lon": -37.9866815,
+        "image": null,
+        "products": [
+            {
+                "id": 1,
+                "name": "Suporte de vôo",
+                "description": "O melhor suporte de vôo para drone",
+                "price": 50.0,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            },
+            {
+                "id": 2,
+                "name": "Motor drone",
+                "description": "Motor AVGR para drone",
+                "price": 150.15,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            },
+            {
+                "id": 3,
+                "name": "Câmera Noturna Samsung",
+                "description": "A melhor câmera de drone do mundo",
+                "price": 500.99,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            }
+        ],
+        "user": {
             "id": 1,
-            "name": "Drone shop 1",
-            "username": "first",
-            "email": "mail@mail.com",
-            "telephone": "(84)9999-9999",
-            "instagram": "@first-instagram",
-            "city": "first-city",
-            "neighboor": null,
-            "state": "first",
-            "street": "first",
-            "number": "123",
-            "lat": -6.212183,
-            "long": -38.497472,
-            "products": [
-                {
-                    "id": 1,
-                    "name": "Drone Multilaser Bird",
-                    "price": 424.91,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 2,
-                    "name": "Drone DJI Mavic Mini Fly More",
-                    "price": 5490.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 3,
-                    "name": "Drone Multilaser Eagle FPV",
-                    "price": 560.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                }
-            ]
+            "name": "Alef Emannuel",
+            "cpf": "111.111.111-11",
+            "username": "alefemannuel",
+            "password": "alefemannuel",
+            "email": "alef@gmail.com",
+            "createdTimestamp": "2020-06-23T20:41:57.95",
+            "updatedTimestamp": null,
+            "active": true
         },
-        {
+        "createdTimestamp": "2020-06-23T20:41:57.95",
+        "updatedTimestamp": null
+    },
+    {
+        "id": 2,
+        "telephone": "84996393352",
+        "whatsapp": "84996393352",
+        "instagram": "@joaodoidao",
+        "active": true,
+        "city": "São Miguel",
+        "neighborhood": "Centro",
+        "state": "RN",
+        "street": "Rua Antônio do Rêgo Leite",
+        "number": 20,
+        "lat": -6.212183,
+        "lon": -38.497472,
+        "image": null,
+        "products": [
+            {
+                "id": 4,
+                "name": "Capa drone",
+                "description": "Capa para guardar drone",
+                "price": 40.0,
+                "image": null,
+                "active": true,
+                "createdTimestamp": "2020-06-23T20:41:57.95",
+                "updatedTimestamp": null
+            }
+        ],
+        "user": {
             "id": 2,
-            "name": "Drone shop 2",
-            "username": "second",
-            "email": "second@second.com",
-            "telephone": "(84)9999-9999",
-            "instagram": "@second-instagram",
-            "city": "second-city",
-            "neighboor": null,
-            "state": "second",
-            "street": "second",
-            "number": "123",
-            "lat": -6.212686,
-            "long": -38.499141,
-            "products": [
-                {
-                    "id": 21,
-                    "name": "Drone Multilaser Bird",
-                    "price": 430.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 22,
-                    "name": "Drone DJI Mavic Mini Fly More",
-                    "price": 5550.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 23,
-                    "name": "Drone Multilaser Eagle FPV",
-                    "price": 590.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                }]
+            "name": "Joao Pedro",
+            "cpf": "111.111.111-11",
+            "username": "joaodoidao",
+            "password": "123",
+            "email": "joaodoido@doido.com",
+            "createdTimestamp": "2020-06-23T20:41:57.95",
+            "updatedTimestamp": null,
+            "active": true
         },
-        {
+        "createdTimestamp": "2020-06-23T20:41:57.95",
+        "updatedTimestamp": null
+    },
+    {
+        "id": 3,
+        "telephone": "",
+        "whatsapp": "",
+        "instagram": "",
+        "active": true,
+        "city": "São Miguel",
+        "neighborhood": "Centro",
+        "state": "RN",
+        "street": "Rua Antônio do Rêgo Leite",
+        "number": 20,
+        "lat": -6.212183,
+        "lon": -38.497472,
+        "image": null,
+        "products": [],
+        "user": {
             "id": 3,
-            "name": "Drone shop 3",
-            "username": "third",
-            "email": "third@third.com",
-            "telephone": "(84)9999-9999",
-            "instagram": "@third-instagram",
-            "city": "third-city",
-            "neighboor": null,
-            "state": "third",
-            "street": "third",
-            "number": "123",
-            "lat": -6.210801,
-            "long": -38.499514,
-            "products": [
-                {
-                    "id": 31,
-                    "name": "Drone Multilaser Bird",
-                    "price": 399.99,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 32,
-                    "name": "Drone DJI Mavic Mini Fly More",
-                    "price": 5200.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 33,
-                    "name": "Drone Multilaser Eagle FPV",
-                    "price": 575.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                }]
+            "name": "Vitória Matias",
+            "cpf": "111.111.111-11",
+            "username": "vitoriadoidona",
+            "password": "123",
+            "email": "vitoria@doido.com",
+            "createdTimestamp": "2020-06-23T20:41:57.95",
+            "updatedTimestamp": null,
+            "active": true
         },
-        {
-            "id": 4,
-            "name": "Drone shop 4",
-            "username": "fourth",
-            "email": "fourth@fourth.com",
-            "telephone": "(84)9999-9999",
-            "instagram": "@fourth-instagram",
-            "city": "fourth-city",
-            "neighboor": null,
-            "state": "fourth",
-            "street": "fourth",
-            "number": "123",
-            "lat": -6.210620,
-            "long": -38.496148,
-            "products": [
-                {
-                    "id": 41,
-                    "name": "Drone Multilaser Bird",
-                    "price": 500.00,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 42,
-                    "name": "Drone DJI Mavic Mini Fly More",
-                    "price": 5400.0,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                },
-                {
-                    "id": 43,
-                    "name": "Drone Multilaser Eagle FPV",
-                    "price": 499.99,
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ipsum vitae nibh interdum iaculis. Sed vitae vulputate est, id vestibulum ante. Donec erat lorem, feugiat id ligula non, venenatis facilisis magna. Pellentesque pretium lectus hendrerit finibus aliquam. Donec a metus et ex facilisis dignissim nec sed mauris. Maecenas turpis lacus, dapibus quis lacus a, viverra tristique augue. Vestibulum eget orci sit amet lectus vehicula ullamcorper. Mauris luctus convallis congue. ",
-                    "created_date": null
-                }]
-        }
-    ]
+        "createdTimestamp": "2020-06-23T20:41:57.95",
+        "updatedTimestamp": null
+    }
+]
 }
