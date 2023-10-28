@@ -1,0 +1,32 @@
+{
+  floors:[
+    {
+      "id":"f86bc5e9-82af-497e-b336-4e0f3e0e1784",
+      "name":"piso 1",
+      "parkingSpaces":[
+        {
+          "id":"169063a0-b870-4213-8730-b120af82689a",
+          "name":"vaga 1",
+          "status" : "vague",
+          "registers":[]
+        },
+        {
+          "id":"3110a123-a59b-4f0c-a998-db7c8b786f87",
+          "name":"vaga 2",
+          "status" : "filled",
+          "registers":[
+            {
+              "id":"ef850569-38a3-4fda-8ac0-88d7bc219895",
+              "vehicle":{
+                "id":"169063a0-b870-4213-8730-b120af82689a",
+                "plate":"AAA1A11",
+              },
+              "entryTime":"2023-10-27T20:38:03.220Z",
+              "departureTime":"2023-10-27T21:38:03.220Z",
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
