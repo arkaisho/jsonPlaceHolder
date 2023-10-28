@@ -1,809 +1,393 @@
 {
   "floors": [
     {
-      "id": "d5a93c5c-125f-4191-a6e8-67b6fd79f0d4",
+      "id": "8adef538-3aa6-4e71-aeac-952e7bbbee5a",
       "name": "piso 1",
       "parkingSpaces": [
         {
-          "id": "78654113-856f-4685-a7e7-ec414b5d6757",
+          "id": "169496c9-e629-4c4f-86ce-ae4f571e588f",
           "name": "vaga 1",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "4631b3a9-7fe0-43f6-8b6d-6cea00838c0a",
-          "name": "vaga 2",
           "status": "filled",
           "registers": [
             {
-              "id": "60f4f1a6-4006-4425-bac6-63b1672f9a1f",
+              "id": "c3ce083c-3401-434a-a9e0-2b5c55137971",
               "vehicle": {
-                "id": "5b4f1847-a468-4524-a591-966236ddb6fe",
-                "plate": "AAA1A2"
+                "id": "b04ac1d4-7f04-4fb0-b121-2ead9df2076a",
+                "plate": "AAA1A1"
               },
-              "entryTime": "2023-06-30T04:02:44",
-              "departureTime": "2023-06-30T05:02:44"
+              "entryTime": "2019-09-10T14:29:37",
+              "departureTime": "2019-09-10T21:29:37"
             },
             {
-              "id": "418850ee-01a1-4206-9f5f-101c5dfad63e",
+              "id": "45289847-b62c-4057-b555-a4a360ef7bbb",
               "vehicle": {
-                "id": "510bd286-7c93-417f-92ba-3697579c5dfa",
-                "plate": "AAA1A2"
+                "id": "4819e2be-7e1e-4c55-8daa-89ee884a7af6",
+                "plate": "AAA1A1"
               },
-              "entryTime": "2023-03-05T02:16:34",
-              "departureTime": "2023-03-05T07:16:34"
-            },
-            {
-              "id": "9c900e0b-f9d3-432f-98f2-7fe273444b9c",
-              "vehicle": {
-                "id": "6b4fd72d-bed7-49c8-824f-c561183f6042",
-                "plate": "AAA1A2"
-              },
-              "entryTime": "2022-12-06T05:27:46",
-              "departureTime": "2022-12-06T15:27:46"
+              "entryTime": "2018-12-28T01:23:14",
+              "departureTime": "2018-12-28T03:23:14"
             }
           ]
         },
         {
-          "id": "99e72ff1-f9bb-4e47-93ad-7f6c3b90b80f",
+          "id": "797072de-7f50-49c5-bc68-eba56d4bceba",
+          "name": "vaga 2",
+          "status": "vague",
+          "registers": []
+        },
+        {
+          "id": "1f9bcf43-36df-454c-839b-f6912b5adc43",
           "name": "vaga 3",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "199c82d3-8434-4073-8059-a9bf8a08d8d4",
+          "id": "cb25c194-36de-4060-93e8-752fecb063c0",
           "name": "vaga 4",
           "status": "filled",
           "registers": [
             {
-              "id": "bb2cd73b-a73f-4ec2-a7de-d2a911c989e6",
+              "id": "247c31d2-b586-407a-941e-c1ff1320108f",
               "vehicle": {
-                "id": "8e56f623-9226-4c34-bf85-57ef06a091eb",
+                "id": "7386a4d6-3913-483a-9aae-990ceb48e680",
                 "plate": "AAA1A4"
               },
-              "entryTime": "2022-09-09T03:54:05",
-              "departureTime": "2022-09-09T12:54:05"
-            },
-            {
-              "id": "956987b5-4fbc-40ee-acca-25feeeb6e1ec",
-              "vehicle": {
-                "id": "84ed50bd-5674-4b63-947f-b240812beb14",
-                "plate": "AAA1A4"
-              },
-              "entryTime": "2018-09-27T19:18:17",
-              "departureTime": "2018-09-28T01:18:17"
-            },
-            {
-              "id": "38fc9829-0201-44eb-a478-506785d46e26",
-              "vehicle": {
-                "id": "faf2c0f0-2c3d-4d59-af88-04aaf8d14b53",
-                "plate": "AAA1A4"
-              },
-              "entryTime": "2020-05-11T17:04:04",
-              "departureTime": "2020-05-11T23:04:04"
-            },
-            {
-              "id": "6703df0e-a220-404b-946a-ad8bc19bb35c",
-              "vehicle": {
-                "id": "988035ef-6467-48cb-92f5-d79681c8a2cd",
-                "plate": "AAA1A4"
-              },
-              "entryTime": "2021-06-01T16:47:26",
-              "departureTime": "2021-06-01T19:47:26"
-            },
-            {
-              "id": "e35973d2-b9ba-4533-b654-c87338ec3fe2",
-              "vehicle": {
-                "id": "2aecdeb7-6e98-41f0-b4ca-e2d853eb2d88",
-                "plate": "AAA1A4"
-              },
-              "entryTime": "2020-11-02T20:09:54",
-              "departureTime": "2020-11-02T21:09:54"
+              "entryTime": "2019-10-21T05:42:22",
+              "departureTime": "2019-10-21T13:42:22"
             }
           ]
         },
         {
-          "id": "24613960-5228-46ef-869c-80d1794dbd54",
+          "id": "4fe32079-a4f4-4d77-9795-2e7fd2fdbc42",
           "name": "vaga 5",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "3ed8cf24-38ee-48ba-9213-1b6ea47158dc",
-          "name": "vaga 6",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "91ac6945-2dd3-4db5-ab1b-292553ef7ff4",
-          "name": "vaga 7",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "5727bdb4-1edf-4482-8921-2f3d33c685af",
-          "name": "vaga 8",
-          "status": "filled",
-          "registers": []
-        },
-        {
-          "id": "900a8b3c-4d02-4797-8ab9-83f44a367f42",
-          "name": "vaga 9",
-          "status": "filled",
-          "registers": []
-        },
-        {
-          "id": "6bbb2c5f-01a7-4071-8298-e6fac26db3f2",
-          "name": "vaga 10",
           "status": "filled",
           "registers": [
             {
-              "id": "ea7ad3ad-8945-4de4-80b0-35bbf41e9e0c",
+              "id": "6882a9e8-9fe3-4cca-a26b-4f497ce94727",
               "vehicle": {
-                "id": "0ca801b1-06f1-4af9-8375-8b2dd8676194",
-                "plate": "AAA1A10"
+                "id": "c571b9f7-8f1c-4770-ad25-f1038e5a3ecd",
+                "plate": "AAA1A5"
               },
-              "entryTime": "2022-01-31T11:50:09",
-              "departureTime": "2022-01-31T19:50:09"
-            },
-            {
-              "id": "2dd7d57c-4cc3-4eac-99c7-c56471f651a0",
-              "vehicle": {
-                "id": "d96c5236-d47d-4415-9839-a9cbe0e58622",
-                "plate": "AAA1A10"
-              },
-              "entryTime": "2018-02-16T07:33:36",
-              "departureTime": "2018-02-16T11:33:36"
-            },
-            {
-              "id": "4f4cc6c0-41a7-4617-8c38-4fa68af9e0e0",
-              "vehicle": {
-                "id": "1fcc4ad3-60d7-4b5e-95bd-dcc12bd3a15f",
-                "plate": "AAA1A10"
-              },
-              "entryTime": "2019-03-19T04:59:38",
-              "departureTime": "2019-03-19T13:59:38"
+              "entryTime": "2023-10-01T22:50:09",
+              "departureTime": "2023-10-02T07:50:09"
             }
           ]
+        },
+        {
+          "id": "6d1566e6-b3e6-4a3d-8904-ec531ac235e3",
+          "name": "vaga 6",
+          "status": "vague",
+          "registers": []
         }
       ]
     },
     {
-      "id": "47d83bfb-870d-4413-b25a-4624a1ac0475",
+      "id": "900738ab-e1ee-48fe-ba55-0d328d2977f9",
       "name": "piso 2",
       "parkingSpaces": [
         {
-          "id": "edf7576b-f804-4c75-9174-e4198e4d1cdd",
+          "id": "57fbdb4a-f2b9-4673-9b1a-7b6fa53c0cbb",
           "name": "vaga 1",
           "status": "filled",
           "registers": [
             {
-              "id": "ceebca51-bad3-4aa5-8318-56d006f688fd",
+              "id": "bf1b4b5f-4c42-4a34-80c8-92568a8a96e2",
               "vehicle": {
-                "id": "afd69312-64b9-4cd9-91b5-38f32b58e23d",
+                "id": "90aeb797-74e0-4cbc-a6ef-3058e02ec898",
                 "plate": "AAA2A1"
               },
-              "entryTime": "2021-04-28T03:40:33",
-              "departureTime": "2021-04-28T07:40:33"
+              "entryTime": "2023-06-01T14:54:59",
+              "departureTime": "2023-06-01T23:54:59"
             },
             {
-              "id": "f6d0f008-778b-4ad6-bbe3-a99841041a05",
+              "id": "d82249d0-1a32-4b5f-a155-0cfa0dffc709",
               "vehicle": {
-                "id": "485aff20-cb02-4a0d-b1eb-c0278f3539ff",
+                "id": "f14093d1-3d0c-46c4-ad53-abd1d19f0170",
                 "plate": "AAA2A1"
               },
-              "entryTime": "2023-06-07T09:43:15",
-              "departureTime": "2023-06-07T19:43:15"
-            },
-            {
-              "id": "513db08f-34a9-45f9-af60-c0849aca344a",
-              "vehicle": {
-                "id": "694283fd-9a83-46f9-8772-da806828b161",
-                "plate": "AAA2A1"
-              },
-              "entryTime": "2020-03-19T16:26:38",
-              "departureTime": "2020-03-19T20:26:38"
+              "entryTime": "2022-06-27T08:07:29",
+              "departureTime": "2022-06-27T16:07:29"
             }
           ]
         },
         {
-          "id": "0fd40491-d8b8-433c-acc2-343994c17acf",
+          "id": "6af6b293-d02c-498a-baa4-8ba6deb479b1",
           "name": "vaga 2",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "17828a9c-94a1-43fe-82c4-5ef565315e5d",
-              "vehicle": {
-                "id": "5312b2e9-e012-4087-aeb1-2a912e9db1b3",
-                "plate": "AAA2A2"
-              },
-              "entryTime": "2021-12-03T07:12:14",
-              "departureTime": "2021-12-03T13:12:14"
-            }
-          ]
-        },
-        {
-          "id": "ff564041-1278-4202-a3fd-787e9cd2d763",
-          "name": "vaga 3",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "00f0e96c-70f7-4313-be8f-b77d92464a82",
-          "name": "vaga 4",
+          "id": "10f8b25c-083e-4d92-b06f-666405f0a80e",
+          "name": "vaga 3",
           "status": "filled",
           "registers": [
             {
-              "id": "506e164e-626d-4dac-b70c-02647134d0c0",
+              "id": "ccbebffc-a796-446e-8957-877b625599e3",
               "vehicle": {
-                "id": "6999b2aa-1fda-489b-9426-135a815e0a35",
-                "plate": "AAA2A4"
+                "id": "9deba268-78d1-4e85-a173-a88bae3f3f03",
+                "plate": "AAA2A3"
               },
-              "entryTime": "2022-03-29T04:25:49",
-              "departureTime": "2022-03-29T07:25:49"
-            }
-          ]
-        },
-        {
-          "id": "73a98190-6b14-443c-9384-bfc7adfb2983",
-          "name": "vaga 5",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "3668d40c-a002-4b26-a8c9-cf63ec9e682d",
-              "vehicle": {
-                "id": "7cfccdbe-1a16-4de8-8c40-34cdaed4ffca",
-                "plate": "AAA2A5"
-              },
-              "entryTime": "2020-08-21T18:05:23",
-              "departureTime": "2020-08-22T00:05:23"
+              "entryTime": "2018-06-06T06:21:34",
+              "departureTime": "2018-06-06T14:21:34"
             },
             {
-              "id": "816304fd-0ba7-45cd-b6dd-aa9c3eb2725b",
+              "id": "c10d9593-cb74-406a-9f8a-c3cf640807fe",
               "vehicle": {
-                "id": "39498529-3ffb-4853-bc5c-b6f2e01a9056",
-                "plate": "AAA2A5"
+                "id": "398dbe1a-5a1b-40df-b755-e87b5fcb8bde",
+                "plate": "AAA2A3"
               },
-              "entryTime": "2019-05-12T17:32:04",
-              "departureTime": "2019-05-12T22:32:04"
+              "entryTime": "2018-04-27T18:43:54",
+              "departureTime": "2018-04-28T01:43:54"
             }
           ]
         },
         {
-          "id": "92e2139f-ac96-44b9-b178-3abf06b52f67",
+          "id": "7ac31e65-3de3-47d9-bfe8-a009a4caf8ef",
+          "name": "vaga 4",
+          "status": "filled",
+          "registers": []
+        },
+        {
+          "id": "528d83c8-f6ee-44f6-83c7-53b8ea567998",
+          "name": "vaga 5",
+          "status": "filled",
+          "registers": []
+        },
+        {
+          "id": "6cf3e0c2-3268-48c5-a094-25f8424d06e7",
           "name": "vaga 6",
           "status": "vague",
           "registers": []
-        },
-        {
-          "id": "53f63522-6b35-4a7b-8021-5a67fbdf6b54",
-          "name": "vaga 7",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "1665d4a9-ecbd-4770-99b8-b28c47656e3c",
-          "name": "vaga 8",
-          "status": "filled",
-          "registers": []
-        },
-        {
-          "id": "851aef68-5df2-44e9-96d9-933b32877d2a",
-          "name": "vaga 9",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "92dabcfc-fdfa-466b-a253-1d6835344c2d",
-              "vehicle": {
-                "id": "8e344aa4-f329-4809-bfb6-a7bf31fc955d",
-                "plate": "AAA2A9"
-              },
-              "entryTime": "2019-12-03T03:02:18",
-              "departureTime": "2019-12-03T13:02:18"
-            },
-            {
-              "id": "ea5bc475-fb16-4750-98a7-685baff501a6",
-              "vehicle": {
-                "id": "91f82363-f1f1-4089-87f2-4ad5df8064a8",
-                "plate": "AAA2A9"
-              },
-              "entryTime": "2019-06-22T09:09:41",
-              "departureTime": "2019-06-22T18:09:41"
-            },
-            {
-              "id": "2cf532b0-e4b4-42ae-83c9-ba99bba7bbf0",
-              "vehicle": {
-                "id": "e1fe51c5-9a09-46d6-b063-804910e1b56d",
-                "plate": "AAA2A9"
-              },
-              "entryTime": "2019-11-05T14:25:00",
-              "departureTime": "2019-11-05T18:25:00"
-            },
-            {
-              "id": "5256741e-3f37-4f08-a6dd-62d9395a768f",
-              "vehicle": {
-                "id": "ecc80413-2d23-4ff7-ba4b-1b79c87d9295",
-                "plate": "AAA2A9"
-              },
-              "entryTime": "2018-07-09T22:32:56",
-              "departureTime": "2018-07-10T03:32:56"
-            }
-          ]
-        },
-        {
-          "id": "897955d1-6468-4516-9a26-03425e386ae0",
-          "name": "vaga 10",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "ad3ba454-c58c-4922-8152-b24cd9551ec2",
-              "vehicle": {
-                "id": "b7d3b103-b906-4aa3-acf0-7ac8337e358a",
-                "plate": "AAA2A10"
-              },
-              "entryTime": "2023-01-30T19:09:07",
-              "departureTime": "2023-01-30T20:09:07"
-            }
-          ]
         }
       ]
     },
     {
-      "id": "4192b73e-36ce-45e0-b5e2-8bbc610e9eed",
+      "id": "e3e5b63a-c4f5-40f6-ab34-1f38f94a5d69",
       "name": "piso 3",
       "parkingSpaces": [
         {
-          "id": "ed3b3cde-3eb0-4501-9946-326ed1047447",
+          "id": "b36c7992-36f3-493b-a2a9-a807197397b5",
           "name": "vaga 1",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "c3dca12e-1a5d-48d9-9b25-c773d258ddd8",
+          "id": "ebf2f55b-69ec-433e-b2da-0aaa8a2cc208",
           "name": "vaga 2",
-          "status": "vague",
-          "registers": []
+          "status": "filled",
+          "registers": [
+            {
+              "id": "66c6a088-e83e-4d02-a56c-372576aca799",
+              "vehicle": {
+                "id": "f40de284-d612-4ecf-9163-3bc5bc306826",
+                "plate": "AAA3A2"
+              },
+              "entryTime": "2022-08-15T06:44:59",
+              "departureTime": "2022-08-15T08:44:59"
+            },
+            {
+              "id": "fb05c92b-1d59-4b11-ad0f-63e25178ee19",
+              "vehicle": {
+                "id": "2a4b7572-58a3-4a60-99fb-95f708112914",
+                "plate": "AAA3A2"
+              },
+              "entryTime": "2023-04-26T07:50:39",
+              "departureTime": "2023-04-26T13:50:39"
+            }
+          ]
         },
         {
-          "id": "0d7bf0d5-1bcb-4a1c-abba-f98329c4a20c",
+          "id": "1bf3abe1-891b-4db1-adbb-69a567e49298",
           "name": "vaga 3",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "cbf12d2b-5331-4fb4-b4b1-e0dc241344ac",
+          "id": "db297154-0f1b-4015-b9b9-48385ae94f9f",
           "name": "vaga 4",
-          "status": "vague",
+          "status": "filled",
           "registers": []
         },
         {
-          "id": "4681ff92-c2db-4ddc-a060-69a7ea6ed466",
+          "id": "22ba5829-b1cb-4923-87f6-9de0511f8a92",
           "name": "vaga 5",
-          "status": "vague",
-          "registers": []
+          "status": "filled",
+          "registers": [
+            {
+              "id": "50e6583f-26dc-45fa-92f9-650bd74cc034",
+              "vehicle": {
+                "id": "de99dc4c-df0d-4863-abb1-34df3e60513f",
+                "plate": "AAA3A5"
+              },
+              "entryTime": "2022-05-20T19:57:42",
+              "departureTime": "2022-05-21T02:57:42"
+            }
+          ]
         },
         {
-          "id": "b2b2cbcf-0106-4abf-9595-27414fa988d7",
+          "id": "c40a26ad-f453-48da-b58e-dc276233c44f",
           "name": "vaga 6",
           "status": "filled",
-          "registers": [
-            {
-              "id": "0615cb1d-eb6c-4d0a-a18d-d1b5170aed3c",
-              "vehicle": {
-                "id": "dfe4949f-4306-4bfb-bb02-db6484c40ce6",
-                "plate": "AAA3A6"
-              },
-              "entryTime": "2022-12-19T21:35:01",
-              "departureTime": "2022-12-19T22:35:01"
-            },
-            {
-              "id": "363cd088-7447-437a-b10c-1baf30fc6622",
-              "vehicle": {
-                "id": "cf47b518-965b-446a-9eb3-f4fbadefb6ad",
-                "plate": "AAA3A6"
-              },
-              "entryTime": "2021-05-18T16:33:52",
-              "departureTime": "2021-05-18T22:33:52"
-            }
-          ]
-        },
-        {
-          "id": "67efe408-d70e-4bec-8a5a-3e6b9dfaffa4",
-          "name": "vaga 7",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "ea7a8fb5-31a9-4d51-a993-9a45e92bde79",
-              "vehicle": {
-                "id": "4526464e-54d6-4736-a17a-6347906529e9",
-                "plate": "AAA3A7"
-              },
-              "entryTime": "2018-12-16T19:29:43",
-              "departureTime": "2018-12-17T05:29:43"
-            }
-          ]
-        },
-        {
-          "id": "923a8d6a-2aff-4a53-b14d-2d1b9c1006c3",
-          "name": "vaga 8",
-          "status": "vague",
           "registers": []
-        },
-        {
-          "id": "85274899-ddab-4bdf-af12-ff6077865637",
-          "name": "vaga 9",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "8f6093cb-b4cf-4dad-9ca1-206b85cecce7",
-          "name": "vaga 10",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "f93fadea-b89f-4075-93b8-e2cd79b93ba7",
-              "vehicle": {
-                "id": "5146168a-c68f-4f85-8c2e-c311c3f5cdfc",
-                "plate": "AAA3A10"
-              },
-              "entryTime": "2018-05-25T14:39:41",
-              "departureTime": "2018-05-25T21:39:41"
-            },
-            {
-              "id": "44c7e39c-0209-48cb-bc50-4f0adbbc60b3",
-              "vehicle": {
-                "id": "9801d11d-38ec-4b84-9f3a-1beb49fa36d2",
-                "plate": "AAA3A10"
-              },
-              "entryTime": "2021-09-02T09:30:28",
-              "departureTime": "2021-09-02T15:30:28"
-            }
-          ]
         }
       ]
     },
     {
-      "id": "661a9642-98f1-4fc6-bdac-e21dda65002d",
+      "id": "7b1394d4-9dcb-4e66-a018-71754f85033a",
       "name": "piso 4",
       "parkingSpaces": [
         {
-          "id": "5767dc19-36cc-4bac-a659-2ef5e3a085d3",
+          "id": "c5f63c0d-8a8e-4a36-b703-38c355e9f06c",
           "name": "vaga 1",
           "status": "filled",
           "registers": [
             {
-              "id": "e2a5289f-129c-4b1e-adca-9b6ac149cf90",
+              "id": "ba44d0aa-91a3-430b-92f8-b4fded5442a8",
               "vehicle": {
-                "id": "bd3100e9-494b-48bb-ad23-ec8b5a263775",
+                "id": "bab9ec02-c982-4122-a2ed-a3bdc964726c",
                 "plate": "AAA4A1"
               },
-              "entryTime": "2019-09-19T13:16:11",
-              "departureTime": "2019-09-19T19:16:11"
+              "entryTime": "2022-06-28T14:51:29",
+              "departureTime": "2022-06-28T20:51:29"
             },
             {
-              "id": "0e2c1a86-9c89-4b20-8162-07281413dda2",
+              "id": "fcf8e215-6a4f-4225-b099-fffd54facacf",
               "vehicle": {
-                "id": "95f06c49-1ee5-4a3e-8125-1ac9606e4947",
+                "id": "3a2447d8-ccfe-4458-9825-2950c3a02124",
                 "plate": "AAA4A1"
               },
-              "entryTime": "2019-11-08T22:10:11",
-              "departureTime": "2019-11-09T08:10:11"
-            },
-            {
-              "id": "b8f6a133-3191-4a5d-a324-ad1f116c5363",
-              "vehicle": {
-                "id": "8d1d4dc7-165a-402c-86f9-601a00ab8013",
-                "plate": "AAA4A1"
-              },
-              "entryTime": "2022-11-03T11:09:55",
-              "departureTime": "2022-11-03T18:09:55"
-            },
-            {
-              "id": "4dbfa726-63e3-4133-8d83-6aeea3878a9b",
-              "vehicle": {
-                "id": "1213e158-9b7e-4657-a337-7980b478e7ac",
-                "plate": "AAA4A1"
-              },
-              "entryTime": "2020-12-21T23:16:15",
-              "departureTime": "2020-12-22T00:16:15"
+              "entryTime": "2019-05-26T16:22:01",
+              "departureTime": "2019-05-26T19:22:01"
             }
           ]
         },
         {
-          "id": "69a13289-0c00-4a83-9d7c-0be6afcef4c3",
+          "id": "c4765d84-3700-4a2e-9606-16bda3a54fc3",
           "name": "vaga 2",
-          "status": "vague",
-          "registers": []
+          "status": "filled",
+          "registers": [
+            {
+              "id": "db91a8da-676c-49bf-8784-0e760d3534d2",
+              "vehicle": {
+                "id": "7bd7aa7b-daf6-43d0-ac63-4df4a2eeaf80",
+                "plate": "AAA4A2"
+              },
+              "entryTime": "2019-11-21T21:11:27",
+              "departureTime": "2019-11-21T22:11:27"
+            }
+          ]
         },
         {
-          "id": "ae323bd4-1cde-4dd8-ac81-92c257adbb05",
+          "id": "8cb59e44-3bbf-404c-8cdb-5b3d0b93f4df",
           "name": "vaga 3",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "0cef7424-fc6e-439a-a999-ddbbf00b7e46",
+          "id": "8fbf4c1a-4779-4c86-9435-02d2eef81edc",
           "name": "vaga 4",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "575c5f4b-faed-4755-aa21-159cb388a385",
-              "vehicle": {
-                "id": "7a4eda4d-c30c-430a-a6c0-f8d2fd32c538",
-                "plate": "AAA4A4"
-              },
-              "entryTime": "2018-04-06T02:10:52",
-              "departureTime": "2018-04-06T07:10:52"
-            },
-            {
-              "id": "3ed32a45-30de-4ff7-88a7-6f41ebdb5017",
-              "vehicle": {
-                "id": "93250b86-bfb9-4f77-839c-555973309d3b",
-                "plate": "AAA4A4"
-              },
-              "entryTime": "2019-01-07T09:49:39",
-              "departureTime": "2019-01-07T16:49:39"
-            },
-            {
-              "id": "333b651e-c9dc-4a10-b478-e1ec6985a1c3",
-              "vehicle": {
-                "id": "64630366-a465-4499-86fb-a2ec6cbe3edc",
-                "plate": "AAA4A4"
-              },
-              "entryTime": "2022-05-08T13:24:53",
-              "departureTime": "2022-05-08T18:24:53"
-            },
-            {
-              "id": "43152e97-3679-40de-b820-61bae345ab4d",
-              "vehicle": {
-                "id": "3098f2b7-16ec-4bd4-a9d4-6620628b1604",
-                "plate": "AAA4A4"
-              },
-              "entryTime": "2018-04-11T10:10:30",
-              "departureTime": "2018-04-11T18:10:30"
-            },
-            {
-              "id": "671cbe60-56cc-4d12-88aa-ee7078791b98",
-              "vehicle": {
-                "id": "cf594d90-b669-4366-ada5-efb7b4407e7b",
-                "plate": "AAA4A4"
-              },
-              "entryTime": "2019-08-07T23:27:15",
-              "departureTime": "2019-08-08T02:27:15"
-            }
-          ]
+          "status": "vague",
+          "registers": []
         },
         {
-          "id": "b9dfd1f9-39b9-43d1-83eb-15fb11ba4398",
+          "id": "8d93c714-0771-4f03-8a12-393d319eed6a",
           "name": "vaga 5",
           "status": "filled",
           "registers": [
             {
-              "id": "56173adc-5421-4212-a29b-094b74bffa7a",
+              "id": "664a13ed-f77f-4cb7-b8c3-6ab5e6e00c70",
               "vehicle": {
-                "id": "81e22bad-f63a-44c8-8a4d-712321cc0fd0",
+                "id": "4478eaea-64e2-4781-8ab2-4613f93e67ab",
                 "plate": "AAA4A5"
               },
-              "entryTime": "2023-02-09T03:53:14",
-              "departureTime": "2023-02-09T12:53:14"
-            },
-            {
-              "id": "45d1d78e-26cb-4010-b6e2-083d056a9d2d",
-              "vehicle": {
-                "id": "8d78e65d-7e4c-4052-b9ff-10f331f3a6b6",
-                "plate": "AAA4A5"
-              },
-              "entryTime": "2020-02-08T02:36:13",
-              "departureTime": "2020-02-08T09:36:13"
-            },
-            {
-              "id": "5cc35377-7274-439a-a305-0ff3edf71fe4",
-              "vehicle": {
-                "id": "469c13c1-121c-47fa-b8ac-98f81ee443ef",
-                "plate": "AAA4A5"
-              },
-              "entryTime": "2018-12-31T01:57:49",
-              "departureTime": "2018-12-31T11:57:49"
+              "entryTime": "2020-02-19T00:16:29",
+              "departureTime": "2020-02-19T03:16:29"
             }
           ]
         },
         {
-          "id": "7aa86fb1-abc3-40d2-9d7e-3cef7188ef55",
+          "id": "a7d5800b-9d31-41bb-beaa-96207b5c7490",
           "name": "vaga 6",
           "status": "filled",
-          "registers": [
-            {
-              "id": "95fd54b1-c6a6-41d6-935a-c99a69b09ec7",
-              "vehicle": {
-                "id": "f069a66b-9912-4328-b019-ce09b8784eab",
-                "plate": "AAA4A6"
-              },
-              "entryTime": "2018-02-05T08:33:36",
-              "departureTime": "2018-02-05T17:33:36"
-            },
-            {
-              "id": "08ecd6fc-3ccd-46a2-9f74-293a356009a6",
-              "vehicle": {
-                "id": "bf8da3bf-b782-459a-b4b6-40f95730ec99",
-                "plate": "AAA4A6"
-              },
-              "entryTime": "2023-07-23T01:35:36",
-              "departureTime": "2023-07-23T04:35:36"
-            },
-            {
-              "id": "21f28b05-1585-423c-a23d-92c9fec059fc",
-              "vehicle": {
-                "id": "0cac2e3f-e553-4777-b962-d740636e736a",
-                "plate": "AAA4A6"
-              },
-              "entryTime": "2023-01-01T04:05:45",
-              "departureTime": "2023-01-01T10:05:45"
-            },
-            {
-              "id": "427b17fb-1b8a-41d2-a324-9a31a362de7d",
-              "vehicle": {
-                "id": "7b9ec294-06fb-454c-bde1-683b71ffbfb0",
-                "plate": "AAA4A6"
-              },
-              "entryTime": "2022-08-22T18:49:43",
-              "departureTime": "2022-08-23T03:49:43"
-            },
-            {
-              "id": "fb11fbf4-6f77-4452-a4da-733f4e9eefe1",
-              "vehicle": {
-                "id": "a28f776a-8e9a-4abd-9893-3ea05503b6a0",
-                "plate": "AAA4A6"
-              },
-              "entryTime": "2019-08-16T00:22:39",
-              "departureTime": "2019-08-16T03:22:39"
-            }
-          ]
-        },
-        {
-          "id": "fe9a4f1c-f32c-4f3b-be08-352b109079c2",
-          "name": "vaga 7",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "6957d51b-8491-41dc-8a5a-9110ea096fb1",
-          "name": "vaga 8",
-          "status": "filled",
-          "registers": [
-            {
-              "id": "c5fa490c-dacd-401d-b3d5-234a0c626f17",
-              "vehicle": {
-                "id": "a234e480-cd64-459f-81e8-aa3850d8d2a3",
-                "plate": "AAA4A8"
-              },
-              "entryTime": "2019-06-23T13:36:29",
-              "departureTime": "2019-06-23T19:36:29"
-            },
-            {
-              "id": "cf41ca68-8294-4645-b35e-e0e5be6fafd6",
-              "vehicle": {
-                "id": "f9eedc95-215d-4a75-940d-0f87adbfdb01",
-                "plate": "AAA4A8"
-              },
-              "entryTime": "2018-11-06T21:53:12",
-              "departureTime": "2018-11-07T06:53:12"
-            }
-          ]
-        },
-        {
-          "id": "e2490227-a7c7-4803-8025-6eb66f782039",
-          "name": "vaga 9",
-          "status": "filled",
-          "registers": []
-        },
-        {
-          "id": "8495646b-c5e0-4dca-97cb-332812c871ab",
-          "name": "vaga 10",
-          "status": "vague",
           "registers": []
         }
       ]
     },
     {
-      "id": "d834f24d-e7e5-4ac7-8ec3-f6633cd2b053",
+      "id": "d4b3574a-4aeb-4084-b5c3-ae855f990e15",
       "name": "piso 5",
       "parkingSpaces": [
         {
-          "id": "b69c1233-cd14-4422-bfe2-454070736f7e",
+          "id": "44d60469-70c6-4887-8ddd-037fef2e83a1",
           "name": "vaga 1",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "a320af6e-9255-4ad4-8afa-c7cb455f010d",
+          "id": "5c65fc44-8569-4823-a985-53b27172381a",
           "name": "vaga 2",
-          "status": "filled",
+          "status": "vague",
           "registers": []
         },
         {
-          "id": "b79fe7ef-62b4-4381-ad7f-fd480cca7f3e",
+          "id": "f9e9a22a-18d1-4a89-b665-97cdc779e334",
           "name": "vaga 3",
-          "status": "filled",
+          "status": "vague",
           "registers": []
         },
         {
-          "id": "10d9f7b5-fb12-4025-b87b-fb84c9cdbf08",
+          "id": "e47ad519-b877-4923-be95-97d465a17dcb",
           "name": "vaga 4",
           "status": "filled",
           "registers": [
             {
-              "id": "44a670c8-1e00-4d67-ac02-746e5e30d789",
+              "id": "387a3cac-7ff4-40d0-bc92-11357f90c240",
               "vehicle": {
-                "id": "12a531a9-2752-4b77-b1ae-a5fcb53f1a8a",
+                "id": "6595af76-877a-4c43-8324-27674a11a64c",
                 "plate": "AAA5A4"
               },
-              "entryTime": "2018-10-28T08:00:40",
-              "departureTime": "2018-10-28T11:00:40"
+              "entryTime": "2019-02-26T21:14:38",
+              "departureTime": "2019-02-26T23:14:38"
             },
             {
-              "id": "ebac08df-4522-48db-995d-80866c4a0afe",
+              "id": "4577e297-79be-4212-89c1-15b45249654f",
               "vehicle": {
-                "id": "b7f9c1ac-4d3e-4ca7-bd1c-61db67c4921b",
+                "id": "c657948e-a6a9-4764-b8b3-27496f02f773",
                 "plate": "AAA5A4"
               },
-              "entryTime": "2018-02-13T06:36:22",
-              "departureTime": "2018-02-13T14:36:22"
+              "entryTime": "2021-07-01T18:44:04",
+              "departureTime": "2021-07-01T20:44:04"
             }
           ]
         },
         {
-          "id": "73537a22-7031-41f1-8ee2-0d24bf140518",
+          "id": "b9998ea4-8513-4963-934c-f654de950711",
           "name": "vaga 5",
           "status": "vague",
           "registers": []
         },
         {
-          "id": "5641a202-fad1-4a87-8397-59733d916191",
+          "id": "74c3c835-65b2-4a43-a2e3-6ae5cbe9a92d",
           "name": "vaga 6",
           "status": "filled",
           "registers": [
             {
-              "id": "2f4ecd76-7a82-4ce7-a4db-f2aa895ef8a2",
+              "id": "d3af3387-2231-4c08-984c-60d61fbb851c",
               "vehicle": {
-                "id": "e5c7a7ae-5428-4c98-8528-c8a316735540",
+                "id": "8a96c7d1-2564-44ca-9d21-dcce9342a518",
                 "plate": "AAA5A6"
               },
-              "entryTime": "2023-10-18T01:11:04",
-              "departureTime": "2023-10-18T08:11:04"
-            }
-          ]
-        },
-        {
-          "id": "652a7719-57b4-4ab3-95f4-24dbb3198c83",
-          "name": "vaga 7",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "79deba10-6a3b-48fc-9637-82df4ec43bfd",
-          "name": "vaga 8",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "c5d10ba6-1d58-4a23-947a-8ac6c0cab065",
-          "name": "vaga 9",
-          "status": "vague",
-          "registers": []
-        },
-        {
-          "id": "bdae1629-4aaa-403e-9483-1781906f35c9",
-          "name": "vaga 10",
-          "status": "filled",
-          "registers": [
+              "entryTime": "2022-04-07T15:32:45",
+              "departureTime": "2022-04-07T22:32:45"
+            },
             {
-              "id": "06213cec-ef19-42f0-b639-19790f7d4417",
+              "id": "76e97f97-ce15-44ae-8ca5-8ffd72a811bf",
               "vehicle": {
-                "id": "bfb3ec4b-7fe3-40fb-a928-8dfc6b3ae549",
-                "plate": "AAA5A10"
+                "id": "75d7cbe8-902d-4c1d-971c-656ac7efbd10",
+                "plate": "AAA5A6"
               },
-              "entryTime": "2018-04-21T22:13:02",
-              "departureTime": "2018-04-22T03:13:02"
+              "entryTime": "2022-05-13T08:52:37",
+              "departureTime": "2022-05-13T13:52:37"
             }
           ]
         }
