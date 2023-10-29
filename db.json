@@ -276,7 +276,7 @@
         {
           "id": "2c0059ce-8cf5-487e-b2cf-95fb000c4a7a",
           "name": "vaga 7",
-          "vehicle": {
+          "parkedVehicle": {
             "id": "24a57fa9-cd81-4a86-b10e-e42f857b6540",
             "plate": "NGS8510"
           }
