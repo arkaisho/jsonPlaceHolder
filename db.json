@@ -47,7 +47,8 @@
           "parkedVehicle": {
             "id": "a7d34fbb-6ea0-43f7-831f-388f43f758a6",
             "plate": "IGN3249"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "27378565-dbc1-4cca-80e8-d8221a193d6d",
@@ -82,7 +83,8 @@
           "parkedVehicle": {
             "id": "f4ebc531-3171-4cbe-8884-b2e9192628e7",
             "plate": "DQS0052"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "b25c6b0f-59b7-42dc-ac84-d36b1eab0e0e",
