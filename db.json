@@ -98,7 +98,8 @@
           "parkedVehicle": {
             "id": "8fcc8016-f33d-4784-af6a-7cc5a5a0375e",
             "plate": "YSZ0346"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "257771be-1c45-46c5-8358-bd7af312cff1",
@@ -127,7 +128,8 @@
           "parkedVehicle": {
             "id": "92527c53-7c25-41ec-b83d-cf9eeaef76e5",
             "plate": "JJM7414"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "81654a17-bb1a-4cd0-a15e-ef1c36a4ef15",
@@ -147,7 +149,8 @@
           "parkedVehicle": {
             "id": "f2b84265-bdbc-480d-9fa3-05944f6c3811",
             "plate": "GEM3410"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         }
       ]
     },
@@ -189,7 +192,8 @@
           "parkedVehicle": {
             "id": "397718ec-0716-4059-8d10-8287787c3614",
             "plate": "AGF4617"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "250aabc9-bc1b-430b-8c39-d1879bb4331e",
@@ -199,7 +203,8 @@
           "parkedVehicle": {
             "id": "20453ba5-e2fb-48e2-a07c-f2eedd70b324",
             "plate": "FTN7439"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "66e3a882-5230-4e62-8e94-3b2449eb0d30",
@@ -231,7 +236,8 @@
           "parkedVehicle": {
             "id": "d9f396f1-9469-4c96-a821-a992b87065b2",
             "plate": "WNE2333"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         },
         {
           "id": "6f1de58e-16cb-4dac-88e8-fb5af25bef74",
@@ -247,7 +253,8 @@
           "parkedVehicle": {
             "id": "2d227edf-1484-48dc-a4b0-ceb8b28c3cac",
             "plate": "WMK6909"
-          }
+          },
+          "currentVehicleEntryTime":"2023-11-09T18:35:57"
         }
       ]
     }
