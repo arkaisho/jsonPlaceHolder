@@ -8,13 +8,13 @@
         {
           "id": "84b418df-31ab-46bb-90b0-751aab47ac7d",
           "name": "vaga 1",
-          "number": 1,
+          "number": "1",
           "registers": []
         },
         {
           "id": "8b24482e-ee09-4e66-bc91-d56a37150216",
           "name": "vaga 2",
-          "number": 2,
+          "number": "2",
           "registers": [
             {
               "id": "bda9fbfe-88c9-4ef2-be0e-2ede58f200d2",
@@ -53,13 +53,13 @@
         {
           "id": "27378565-dbc1-4cca-80e8-d8221a193d6d",
           "name": "vaga 3",
-          "number": 3,
+          "number": "3",
           "registers": []
         },
         {
           "id": "f2aea7d6-076a-4682-99e4-a06914a280e3",
           "name": "vaga 4",
-          "number": 4,
+          "number": "4",
           "registers": [
             {
               "id": "e430508a-3cc2-474d-8353-0b3f751e7c27",
@@ -89,13 +89,13 @@
         {
           "id": "b25c6b0f-59b7-42dc-ac84-d36b1eab0e0e",
           "name": "vaga 5",
-          "number": 5,
+          "number": "5",
           "registers": []
         },
         {
           "id": "0fbec307-9938-411a-98ba-09a9e7a432ef",
           "name": "vaga 6",
-          "number": 6,
+          "number": "6",
           "registers": [],
           "parkedVehicle": {
             "id": "8fcc8016-f33d-4784-af6a-7cc5a5a0375e",
@@ -106,7 +106,7 @@
         {
           "id": "257771be-1c45-46c5-8358-bd7af312cff1",
           "name": "vaga 7",
-          "number": 7,
+          "number": "7",
           "registers": [
             {
               "id": "dedaf0c5-66c0-4919-9b0d-5d1784047c54",
@@ -136,7 +136,7 @@
         {
           "id": "81654a17-bb1a-4cd0-a15e-ef1c36a4ef15",
           "name": "vaga 8",
-          "number": 8,
+          "number": "8",
           "registers": [
             {
               "id": "1b312c65-aee7-4f53-bd7c-5c656916b2e8",
@@ -164,13 +164,13 @@
         {
           "id": "d21868c0-b1ae-4749-bfe7-81bd63d13207",
           "name": "vaga 1",
-          "number": 1,
+          "number": "1",
           "registers": []
         },
         {
           "id": "1672a625-2f72-42af-a586-f6c4a2a08545",
           "name": "vaga 2",
-          "number": 2,
+          "number": "2",
           "registers": [
             {
               "id": "965efbf1-295b-4197-bff6-f5070090b1c6",
@@ -200,7 +200,7 @@
         {
           "id": "250aabc9-bc1b-430b-8c39-d1879bb4331e",
           "name": "vaga 3",
-          "number": 3,
+          "number": "3",
           "registers": [],
           "parkedVehicle": {
             "id": "20453ba5-e2fb-48e2-a07c-f2eedd70b324",
@@ -211,19 +211,19 @@
         {
           "id": "66e3a882-5230-4e62-8e94-3b2449eb0d30",
           "name": "vaga 4",
-          "number": 4,
+          "number": "4",
           "registers": []
         },
         {
           "id": "b13574b8-39bf-42be-92d8-0a27640f54a5",
           "name": "vaga 5",
-          "number": 5,
+          "number": "5",
           "registers": []
         },
         {
           "id": "173375fe-fe68-483a-8046-83fa75d207b2",
           "name": "vaga 6",
-          "number": 6,
+          "number": "6",
           "registers": [
             {
               "id": "2c11c1c6-5de1-4b3d-a9e9-a8490df2d401",
@@ -244,13 +244,13 @@
         {
           "id": "6f1de58e-16cb-4dac-88e8-fb5af25bef74",
           "name": "vaga 7",
-          "number": 7,
+          "number": "7",
           "registers": []
         },
         {
           "id": "b6aab3f8-49fc-4ea2-9597-5a43057305b4",
           "name": "vaga 8",
-          "number": 8,
+          "number": "8",
           "registers": [],
           "parkedVehicle": {
             "id": "2d227edf-1484-48dc-a4b0-ceb8b28c3cac",
